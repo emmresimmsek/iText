@@ -12,7 +12,7 @@ import com.itextpdf.layout.element.Paragraph;
 import java.io.FileNotFoundException;
 import java.net.MalformedURLException;
 
-public class AddImage05 {
+public class AddImage09 {
     public static void main(String[] args) throws FileNotFoundException, MalformedURLException {
         // Creating a PdfWriter
         String dest = "C:/Users/promosyoncu/Desktop/addImage55.pdf";
