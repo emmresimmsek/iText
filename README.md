@@ -1,4 +1,4 @@
-![iText  Logo]([https://www.resimupload.org/images/2023/12/26/html.jpg](https://www.resimupload.org/images/2024/02/10/1.jpg))
+![iText  Logo](https://www.resimupload.org/images/2024/02/10/1.jpg)
 Bu depo, iText ile ilgili çalışma dosyalarımı içermektedir.
 Projeyi yerel makinenize klonlayarak veya dosyaları indirerek inceleyebilirsiniz.
 
